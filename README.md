@@ -1,12 +1,14 @@
 # This is my first demo repository for data project
 
 ## Instructions
-Clone this repository.
+1. Clone this repository.
 
-Create a virtual environment.
+2. Create a virtual environment.
 
 `python -m venv env`
 
-Install the packages.
+3. Install the packages.
 
 `pip install -r requirements.txt`
+
+PS: Make sure to activate the virtual environment first before installing the packages
